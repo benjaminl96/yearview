@@ -8,6 +8,8 @@ continuous spatial canvas. Pan into earlier or later years, zoom from a broad
 annual overview into individual days, and create or edit events without
 leaving the view.
 
+![Yearview showing a zoomed multi-month calendar with events](docs/yearview-calendar.png)
+
 ## Features
 
 - Continuous pan-and-zoom timeline spanning multiple years
